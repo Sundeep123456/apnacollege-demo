@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first repository
-Sundeep D H
+Author-Sundeep D H
